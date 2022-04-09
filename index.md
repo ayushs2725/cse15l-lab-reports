@@ -39,3 +39,6 @@ print `indent 4 spaces`
 **The updates were made from a local client**
 
 > Thank you!
+
+
+![Image for lab](git2.png)
