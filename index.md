@@ -4,7 +4,7 @@
 
 *Welcome to the Lab Report*
 
-** By Ayush Singh**
+**By Ayush Singh**
 
 [Link to my github](https://github.com/ayushs2725/cse15l-lab-reports)
 
