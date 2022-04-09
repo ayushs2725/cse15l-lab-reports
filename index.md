@@ -33,3 +33,9 @@
 print '3 backtricks or`
 print `indent 4 spaces`
 ```
+
+## These are some new edits to the file
+
+**The updates were made from a local client**
+
+> Thank you!
