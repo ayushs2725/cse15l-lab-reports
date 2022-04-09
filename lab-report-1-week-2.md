@@ -1,3 +1,13 @@
+## Downloading VS Code
+
+To download VS Code, go to the following link [VS Code Downlad.](https://code.visualstudio.com/)
+
+Once you are on the page, click on the **Download** button and follow the set up instructions from there.
+
+Once you have completed the set up, you should be able to see something like this when you open the VS Code
+
+![](VS.png)
+
 ## Remotely Connecting 
 
 We use **Secure Shell (sch)** to securely connect to the remote servers
