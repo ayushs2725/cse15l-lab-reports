@@ -93,3 +93,15 @@ Once you're back on your client computer, type in the following command:
 * *(server_name)* is the name of the server, in our case, **ieng6.ucsd.edu**
 
 After you've done all the above steps, you ssh key will be set up and you will no longer have to type in the password every time you log onto the server!
+
+## Optimizing Remote Running
+
+* You can press the **Up Arrow Key** to type-in the previous commands that you've done on the command line
+
+* You can use **semicolon** to perform multiple operations at one time. For example, you can use this command to copy code from a file WhereAmI.java to New.java and compile the new file, and then print the files in the directory: **cp WhereAmI.java New.java; javac New.java; ls**
+
+![](rep4.png)
+
+* You can use **" "** to run commands on your remote server using your client computer in this way: **ssh (user_name)@ieng6.ucsd.edu "command"**. Where *(user_name)* is the user name assigned to you on the remote server and command can be any command like ls.
+
+![](rep3.png)
