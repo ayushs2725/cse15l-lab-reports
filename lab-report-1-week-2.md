@@ -94,6 +94,14 @@ Once you're back on your client computer, type in the following command:
 
 After you've done all the above steps, you ssh key will be set up and you will no longer have to type in the password every time you log onto the server!
 
+![](rep5.png)
+
+![](rep6.png)
+
+![](rep7.png)
+
+As you can see in the above image, we have made a directory **.ssh** 
+
 ## Optimizing Remote Running
 
 * You can press the **Up Arrow Key** to type-in the previous commands that you've done on the command line
