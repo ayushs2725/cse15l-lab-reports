@@ -27,3 +27,18 @@
 ![Symptom](image2.png)
 
 *The bug in the code is the incorrect use of square brackets instead of parantheses. This produces a symptom of infinite loop. The incorrect brackets are in the test file*
+
+## Code Change Three
+
+**Code Change**
+![](change_3.png)
+
+**Link to failure-inducing input**
+
+[Failure inducing output 3](https://github.com/ayushs2725/markdown-parser/blob/main/fail_3.md)
+
+**Image of symptom**
+
+![Symptom](image3.png)
+
+*The bug is that it considers everything in parantheses a link. Symptom is that it shouldn't give the output since the given is not a link. It's linked to the test file since the test file contains the input file which isn't supposed to give an output*
