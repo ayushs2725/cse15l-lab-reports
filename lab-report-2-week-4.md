@@ -5,7 +5,7 @@
 
 **Link to failure-inducing input**
 
-[Failure inducing output 1](https://github.com/ayushs2725/markdown-parser/blob/main/fail_1)
+[Failure inducing output 1](https://github.com/ayushs2725/markdown-parser/blob/main/fail1.md)
 
 **Image of symptom**
 
@@ -20,7 +20,8 @@
 
 **Link to failure-inducing input**
 
-[Failure inducing output 2](https://github.com/ayushs2725/markdown-parser/blob/main/fail_2.md)
+[Failure inducing output 2](https://github.com/ayushs2725/markdown-parser/blob/main/fail2.md)
+This input file has a blank line at the end even though you cannot necessarily see it
 
 **Image of symptom**
 
@@ -35,7 +36,7 @@
 
 **Link to failure-inducing input**
 
-[Failure inducing output 3](https://github.com/ayushs2725/markdown-parser/blob/main/fail_3.md)
+[Failure inducing output 3](https://github.com/ayushs2725/markdown-parser/blob/main/fail3.md)
 
 **Image of symptom**
 
