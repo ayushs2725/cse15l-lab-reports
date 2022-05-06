@@ -19,3 +19,15 @@ Once you've done that, you should be able to log into your server using ```ssh i
 To copy a file from client server to remote server, use the following command: ```scp (file_name) ieng6:```
 
 ![](R3P5.png)
+
+## Copying Whole Directories
+
+**Instead of copying all files individually, we can copy all files at once using the following command**
+
+Let ***dir*** be the name of the directory you want to copy, enter the following command: 
+
+```scp -r . cs15lsp22zzz@ieng6.ucsd.edu:~/dir``` where ***zzz*** is your unique code 
+
+You should see something like this
+
+![](R3P6.png)
