@@ -31,3 +31,4 @@ Let ***dir*** be the name of the directory you want to copy, enter the following
 You should see something like this
 
 ![](R3P6.png)
+![](R3P7.png)
