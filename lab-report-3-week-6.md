@@ -32,3 +32,7 @@ You should see something like this
 
 ![](R3P6.png)
 ![](R3P7.png)
+
+Running the tests on server:
+
+![](R3P8.png)
