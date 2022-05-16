@@ -1,5 +1,7 @@
 ## Streamlining ssh Configuration
 
+**Instead of having to type in the whole user_name@server_name.ucsd.eng everytime you want to log on to the server, you can configure the ssh file so that you just have to enter the server name when you want to log onto the server**
+
 **To open the config file, type in ```~/.ssh/config``` in the terminal of VS Code**
 
 ![](R3P1.png)
