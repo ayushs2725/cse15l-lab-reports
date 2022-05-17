@@ -22,6 +22,17 @@ To copy a file from client server to remote server, use the following command: `
 
 ![](R3P5.png)
 
+## Setting up Github Access from ieng6
+
+The public key on GitHub is stored under "SSH and GPG Keys" under "Access"
+
+![](pic1.png)
+
+The public key stored under the name ```id_rsa.pub``` and the private key is stored under the name ```id_rsa``` in the hidden directory ```.ssh```
+
+![](pic5.png)
+
+
 ## Copying Whole Directories
 
 **Instead of copying all files individually, we can copy all files at once using the following command**
