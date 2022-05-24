@@ -18,6 +18,7 @@
 ## JUnit test on Reviewed File 
 ![](R4P6.png)
 
+I do have a fix in mind but I'm not exactly sure how to implement it. We can do it by checking if any of the square bracket, either opening or closing, is contained between ```" "```. At the same time, we have to make sure that it's not a single ```"``` but it should be between two of them 
 
 
 ## Snippet Two
@@ -34,7 +35,7 @@
 ## JUnit test on Reviewed File 
 ![](R4P8.png)
 
-
+I do have a fix in mind but not exactly sure how to change it. We can implement a code that that only considers the first opening square bracket and the last closing bracket before the opening paratheses.
 
 ## Snippet Three
 
@@ -49,3 +50,5 @@
 
 ## JUnit test on Reviewed File 
 ![](R4P10.png)
+
+One of the simple fixes that I have in mind is to include a conditional that checks if the input file contains any new line characters. If it does, then, we can continue.
