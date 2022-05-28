@@ -18,7 +18,9 @@
 ## JUnit test on Reviewed File 
 ![](R4P6.png)
 
-I do have a fix in mind but I'm not exactly sure how to implement it. We can do it by checking if any of the square bracket, either opening or closing, is contained between ```" "```. At the same time, we have to make sure that it's not a single ```"``` but it should be between two of them 
+## Fix to the code
+
+The fix would be a small fix (<10 lines). I do have a fix in mind but I'm not exactly sure how to implement it. We can do it by checking if any of the square bracket, either opening or closing, is contained between ```" "```. At the same time, we have to make sure that it's not a single ```"``` but it should be between two of them. By doing this, we'll make sure that the given statement is a link and not a string.
 
 
 ## Snippet Two
@@ -35,7 +37,8 @@ I do have a fix in mind but I'm not exactly sure how to implement it. We can do 
 ## JUnit test on Reviewed File 
 ![](R4P8.png)
 
-I do have a fix in mind but not exactly sure how to change it. We can implement a code that that only considers the first opening square bracket and the last closing bracket before the opening paratheses.
+## Fix to the code
+The fix would be a small fix (<10 lines). I do have a fix in mind but not exactly sure how to change it. We can implement a code that that only considers the first opening square bracket and the last closing bracket before the opening paratheses. By doing this, even if the user has used multiple opening and closing brackets, we'll only be looking at the ones that define the boundaries of the link.
 
 ## Snippet Three
 
@@ -51,4 +54,6 @@ I do have a fix in mind but not exactly sure how to change it. We can implement 
 ## JUnit test on Reviewed File 
 ![](R4P10.png)
 
-One of the simple fixes that I have in mind is to include a conditional that checks if the input file contains any new line characters. If it does, then, we can continue.
+## Fix to the code
+
+The fix would be a small fix (<10 lines). One of the simple fixes that I have in mind is to include a conditional that checks if the input file contains any new line characters. If it does, then, we can continue. By doing this, we'll be skipping all new lines and will only be looking be the lines which contains links.
