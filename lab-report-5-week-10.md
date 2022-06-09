@@ -16,6 +16,7 @@ In this case, I believe none of the implementations are correct since my impleme
 ### Actual and Expected Output
 
 Actual:
+
 ![](R5P5.png)
 
 Expected:
@@ -40,9 +41,11 @@ In this case, I believe the provided implementation is incorrect since the given
 ### Actual and Expected Output
 
 Actual:
+
 ![](R5P2.png)
 
 Expected:
+
 ![](R5P3.png)
 
 ### Description of the Bug
